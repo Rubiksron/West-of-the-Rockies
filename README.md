@@ -1,2 +1,1 @@
-# West-of-the-Rockies
-Text based game created with Angular.js
+This is a text based game built with Angular2
