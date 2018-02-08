@@ -59,7 +59,7 @@ function mapService($log) {
       north: "Oregon"
     },
     SouthernCalifornia: {
-      desc: "Welocome to Southern California, enjoy the beaches.",
+      desc: "Welcome to Southern California, enjoy the beaches.",
       east: "Arizona",
       north: "NorthernCalifornia"
     },
