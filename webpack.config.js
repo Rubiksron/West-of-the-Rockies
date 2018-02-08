@@ -15,7 +15,7 @@ module.exports = {
   devtool: 'eval',
   plugins,
   output: {
-    path: 'build',
+    path: 'docs',
     filename: 'bundle.js',
   },
   sassLoader: {
